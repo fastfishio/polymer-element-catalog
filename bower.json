@@ -21,6 +21,7 @@
     "paper-elements": "PolymerElements/paper-elements#^1.0.0",
     "gold-elements": "PolymerElements/gold-elements#^1.0.0",
     "neon-elements": "PolymerElements/neon-elements#^1.0.0",
+    "next-ui-elements": "git@github.com:fastfishio/next-ui-elements.git#develop",
     "platinum-elements": "PolymerElements/platinum-elements#^2.0.0",
     "google-web-components": "GoogleWebComponents/google-web-components#^1.0.0",
     "molecules": "PolymerElements/molecules#^1.0.0",
@@ -31,6 +32,7 @@
     "hydrolysis": "PolymerLabs/hydrolysis#^1.11.0"
   },
   "resolutions": {
-    "firebase": "^2.3.1"
+    "firebase": "^2.3.1",
+    "app-layout": "^0.10.4"
   }
 }
